@@ -6,4 +6,4 @@ The non-linear model is linearized at two operating points.
 states.
 • Linear Model obtained at Operating Point 2 is a two input - two output system. It consists of two
 states.
-• Three different control system techniques are applied for the obtained plant models.
+• Three different control system techniques were applied for the obtained linear plant models; Linear Quadratic Regulator (LQR), Linear, Quadratic Gaussian (LQG), and H∞ Control Design
